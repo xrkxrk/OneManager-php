@@ -12,8 +12,8 @@ $exts['zip'] = ['zip', 'rar', '7z', 'gz', 'tar'];
 
 $constStr = [
     'languages' => [
-        'zh-cn' => '简体中文',
         'en-us' => 'English',
+        'zh-cn' => '简体中文',
         'ja' => '日本語',
         'ko-kr' => '한국어',
         'fa' => 'فارسی',
